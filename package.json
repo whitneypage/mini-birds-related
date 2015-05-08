@@ -1,0 +1,26 @@
+{
+  "name": "mini-birds-related",
+  "version": "1.0.0",
+  "description": "This project will build out the capabilities of our mini-project from yesterday to help solidify our understanding of using data relationships in MongoDB through Mongoose. By the end of the project, you should know how to utilize Mongoose models to set up both embedded and referential relationships.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whitneypage/mini-birds-related.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitneypage/mini-birds-related/issues"
+  },
+  "homepage": "https://github.com/whitneypage/mini-birds-related",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "cors": "^2.6.0",
+    "express": "^4.12.3",
+    "mongoose": "^4.0.2"
+  }
+}
